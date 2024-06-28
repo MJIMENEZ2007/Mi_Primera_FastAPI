@@ -8,6 +8,7 @@ uvicorn = "*"
 fastapi = "*"
 sqlalchemy = "*"
 pymysql = "*"
+pipenv-to-requirements = "*"
 
 [dev-packages]
 
